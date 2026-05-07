@@ -4,7 +4,7 @@ A **Power BI healthcare analytics dashboard** built for the **Databuzz Power BI 
 This project transforms **10,000 patient diagnostic records** into actionable insights that help identify disease patterns, detect high-risk patients, and support data-driven clinical decision making.
 
 ---
-
+  
 ## 🚀 Live Dashboard
 
 🔗 **Interactive Power BI Dashboard**  
